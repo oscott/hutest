@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on hu huhu</title>
+    <link>http://replace-this-with-your-hugo-site.com/post/</link>
+    <description>Recent content in Posts on hu huhu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Nov 2015 22:36:26 +0000</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>boo</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/hello/</link>
+      <pubDate>Sat, 21 Nov 2015 22:36:26 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/hello/</guid>
+      <description>&lt;p&gt;BOO vorldt&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
